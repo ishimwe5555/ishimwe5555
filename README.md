@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-
-
+<br />
 
 Hi, I'm [Norbert Ishimwe](https://www.linkedin.com/in/norbertishimwe/),a full-stack web developer and freelance software engineer from Rwanda, I am driven by my passion for software development and the creative process of turning innovative ideas into reality through stunning user interfaces. I place a strong emphasis on user experience, efficient architecture, and code excellence in everything I create.
 
