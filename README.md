@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Norbert Ishimwe | Twitter" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/norbertishimwe/">
-  <img align="left" alt="Norbert's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)" />
+  <img align="left" alt="Norbert's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
