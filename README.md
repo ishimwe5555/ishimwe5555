@@ -2,7 +2,7 @@
 
 <!--
 **ishimwe5555/ishimwe5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <a href="https://twitter.com/codewithish">
   <img align="left" alt="Norbert Ishimwe | Twitter" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />
